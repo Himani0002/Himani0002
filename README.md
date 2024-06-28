@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Allodoxaphobia is the fear of other people's opinions.**
 
-<p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." ></p>
+<p><img align="right" alt="Coding" width="400" src="https://gracemy.com/assets/me.gif" ></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
