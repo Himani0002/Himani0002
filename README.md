@@ -4,7 +4,7 @@
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300"/>
   </div>
   <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/himani0002">
+    <a href="https://www.linkedin.com/in/himani-gohil">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
