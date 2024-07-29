@@ -1,4 +1,3 @@
-Sure! Here's a cute README file with the elements you provided:
 
 ---
 
