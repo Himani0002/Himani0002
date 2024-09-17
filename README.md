@@ -2,11 +2,7 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/himani-gohil">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
+
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Hey+there%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+world+of+Development!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
 
