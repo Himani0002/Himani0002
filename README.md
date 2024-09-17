@@ -39,8 +39,14 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" height="358"/>
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" width="420"/>
+### 📊 GitHub Stats:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=radical" alt="gauri17-pro" width="420"/>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" height="200" width="300"/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" height="200" width="420"/>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=radical" alt="gauri17-pro" height="200" width="420"/>
+</div>
