@@ -1,4 +1,3 @@
-
 ---
 
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
@@ -29,10 +28,19 @@
 
 </div>
 
+---
+
+### 🛠️ My Tech Stack:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</div>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" height="358"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" width="420"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=radical" alt="gauri17-pro" width="420"/>
-
----
