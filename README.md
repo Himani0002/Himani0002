@@ -16,8 +16,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gauri17-pro&theme=juicyfresh&row=1" alt="Trophies"/>
 </p>
 
-<h1></h1>
-
 <div align="center">
 
 💻 I’m a **software developer** with a passion for MERN stack projects
@@ -28,7 +26,7 @@
 
 </div>
 
----
+<hr>
 
 ### 🛠️ My Cute Tech Stack:
 
@@ -39,19 +37,19 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 </div>
 
----
+<hr>
 
 ### 📊 GitHub Stats: 🌟
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=cobalt&hide_border=true" alt="gauri17-pro" height="200" width="300"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=omni&hide_border=true" alt="gauri17-pro" height="200" width="420"/>
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=candy-pink&hide_border=true" alt="gauri17-pro" height="200" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=cobalt&hide_border=true" alt="Top Languages" height="200" width="300"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=omni&hide_border=true" alt="GitHub Stats" height="200" width="420"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=candy-pink&hide_border=true" alt="GitHub Streak" height="200" width="420"/>
 </div>
 
----
+<hr>
 
 ### 🌈 Fun Facts About Me:
 
@@ -59,7 +57,7 @@
 - 💖 Coding with a sprinkle of **creativity** and **fun**
 - 🎨 Always learning and growing my **skills** in web development
 
----
+<hr>
 
 ### 💌 Connect with Me!
 
