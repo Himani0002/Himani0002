@@ -73,7 +73,7 @@ Here’s a more stylish and vibrant version of your README with extra flair:
   <a href="mailto:himanigohil0002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/gauri17-pro" target="_blank">
+  <a href="https://github.com/Himani0002" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
