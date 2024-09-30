@@ -3,10 +3,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey+there%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB; Welcome+to+my+world+of+Development!%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey+there%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+world+of+Development!%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <h3 align="center">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
