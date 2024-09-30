@@ -10,9 +10,7 @@
 
 <h3 align="center">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauri17-pro&theme=juicyfresh&row=1" alt="Trophies" />
-</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/109351602/228737361-7f6768b9-4547-43fd-907e-91872b15722f.gif" width="400" height="250" />
