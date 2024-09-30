@@ -1,6 +1,4 @@
-Here’s a more stylish and vibrant version of your README with extra flair:
 
----
 
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
@@ -78,6 +76,3 @@ Here’s a more stylish and vibrant version of your README with extra flair:
   </a>
 </div>
 
----
-
-This version includes more color, movement, and interactive elements while keeping it stylish and cute! It will leave an unforgettable impression! 🌸
