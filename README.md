@@ -6,16 +6,16 @@
   </a>
 </h1>
 
-<h3 align="center" style="color:#B975F8;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
+<h3 align="center" style="color:#000;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/109351602/228737361-7f6768b9-4547-43fd-907e-91872b15722f.gif" width="400" height="250" />
 </p>
 
-<div align="center" style="color:#B975F8;">
-  💻 I’m a <strong>software developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong>  
-  🌟 Let's build <strong>creative projects</strong> together!  
-  📫 Reach me at: <strong>himanigohil0002@gmail.com</strong>  
+<div align="center" style="color:#000;">
+  💻 I’m a <strong style="color:#B975F8;">software developer</strong> passionate about crafting beautiful web applications using the <strong style="color:#B975F8;">MERN stack</strong>  
+  🌟 Let's build <strong style="color:#B975F8;">creative projects</strong> together!  
+  📫 Reach me at: <strong style="color:#B975F8;">himanigohil0002@gmail.com</strong>  
 </div>
 
 ---
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats: 🌟
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=B975F8&text_color=B975F8" alt="Top Languages" height="200" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=B975F8&text_color=B975F8" alt="GitHub Stats" height="200" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=B975F8&text_color=#000" alt="Top Languages" height="200" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=B975F8&text_color=#000" alt="GitHub Stats" height="200" width="420"/>
   <img src="https://streak-stats.demolab.com/?user=gauri17-pro&theme=neon-dark&hide_border=true&ring=B975F8&fire=B975F8" alt="GitHub Streak Stats" height="200" width="420"/>
 </div>
 
