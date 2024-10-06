@@ -36,12 +36,7 @@
 
 ### 📊 GitHub Stats: 🌟
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=B975F8&text_color=#000" alt="Top Languages" height="200" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=B975F8&text_color=#000" alt="GitHub Stats" height="200" width="420"/>
-  <img src="https://streak-stats.demolab.com/?user=gauri17-pro&theme=neon-dark&hide_border=true&ring=B975F8&fire=B975F8" alt="GitHub Streak Stats" height="200" width="420"/>
-</div>
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani0002&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=B975F8&text_color=000" alt="Top Languages" height="200" width="300"/> <img src="https://github-readme-stats.vercel.app/api?username=Himani0002&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=B975F8&text_color=000" alt="GitHub Stats" height="200" width="420"/> <img src="https://streak-stats.demolab.com/?user=Himani0002&theme=neon-dark&hide_border=true&ring=B975F8&fire=B975F8" alt="GitHub Streak Stats" height="200" width="420"/> </div>
 ---
 
 ### 🌈 Fun Facts About Me:
