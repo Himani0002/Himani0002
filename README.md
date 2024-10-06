@@ -2,20 +2,20 @@
 
 <h1 align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey+there%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c77cf2&center=true&vCenter=true&width=435&lines=Hey+there%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center" style="color:#ae34eb; color:black;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
+<h3 align="center" style="color:#c77cf2;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/109351602/228737361-7f6768b9-4547-43fd-907e-91872b15722f.gif" width="400" height="250" />
 </p>
 
 <div align="center" style="color:#c77cf2">
-  💻 I’m a <strong style="color:black;">software developer</strong> passionate about crafting beautiful web applications using the <strong style="color:black;">MERN stack</strong><br>
-  🌟 Let's build <strong style="color:black;">creative projects</strong> together!<br>
-  📫 Reach me at: <strong style="color:black;">himanigohil0002@gmail.com</strong>
+  💻 I’m a <strong style="color:#c77cf2;">software developer</strong> passionate about crafting beautiful web applications using the <strong style="color:#c77cf2;">MERN stack</strong><br>
+  🌟 Let's build <strong style="color:#c77cf2;">creative projects</strong> together!<br>
+  📫 Reach me at: <strong style="color:#c77cf2;">himanigohil0002@gmail.com</strong>
 </div>
 
 ---
@@ -51,9 +51,9 @@
 </div>
 
 <div style="color:#c77cf2">
-  ✨ I love designing <strong style="color:black;">cute and stylish UIs</strong> with vibrant aesthetics<br>
-  💖 Bringing <strong style="color:black;">creativity and fun</strong> into coding is my secret sauce<br>
-  🎨 Always learning, exploring, and polishing my <strong style="color:black;">web development skills</strong>
+  ✨ I love designing <strong style="color:#c77cf2;">cute and stylish UIs</strong> with vibrant aesthetics<br>
+  💖 Bringing <strong style="color:#c77cf2;">creativity and fun</strong> into coding is my secret sauce<br>
+  🎨 Always learning, exploring, and polishing my <strong style="color:#c77cf2;">web development skills</strong>
 </div>
 
 ---
@@ -71,4 +71,3 @@
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
