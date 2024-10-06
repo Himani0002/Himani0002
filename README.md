@@ -6,16 +6,16 @@
   </a>
 </h1>
 
-<h3 align="center" style="color:#c77cf2">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
+<h3 align="center" style="color:#c77cf2; color:black;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/109351602/228737361-7f6768b9-4547-43fd-907e-91872b15722f.gif" width="400" height="250" />
 </p>
 
 <div align="center" style="color:#c77cf2">
-  💻 I’m a <strong>software developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
-  🌟 Let's build <strong>creative projects</strong> together!<br>
-  📫 Reach me at: <strong>himanigohil0002@gmail.com</strong>
+  💻 I’m a <strong style="color:black;">software developer</strong> passionate about crafting beautiful web applications using the <strong style="color:black;">MERN stack</strong><br>
+  🌟 Let's build <strong style="color:black;">creative projects</strong> together!<br>
+  📫 Reach me at: <strong style="color:black;">himanigohil0002@gmail.com</strong>
 </div>
 
 ---
@@ -51,9 +51,9 @@
 </div>
 
 <div style="color:#c77cf2">
-  ✨ I love designing <strong>cute and stylish UIs</strong> with vibrant aesthetics<br>
-  💖 Bringing <strong>creativity and fun</strong> into coding is my secret sauce<br>
-  🎨 Always learning, exploring, and polishing my <strong>web development skills</strong>
+  ✨ I love designing <strong style="color:black;">cute and stylish UIs</strong> with vibrant aesthetics<br>
+  💖 Bringing <strong style="color:black;">creativity and fun</strong> into coding is my secret sauce<br>
+  🎨 Always learning, exploring, and polishing my <strong style="color:black;">web development skills</strong>
 </div>
 
 ---
