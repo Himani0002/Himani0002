@@ -12,10 +12,10 @@
   <img src="https://user-images.githubusercontent.com/109351602/228737361-7f6768b9-4547-43fd-907e-91872b15722f.gif" width="400" height="250" />
 </p>
 
-<div align="center" style="color:#c77cf2">
-  💻 I’m a <strong style="color:#c77cf2;">software developer</strong> passionate about crafting beautiful web applications using the <strong style="color:#c77cf2;">MERN stack</strong><br>
-  🌟 Let's build <strong style="color:#c77cf2;">creative projects</strong> together!<br>
-  📫 Reach me at: <strong style="color:#c77cf2;">himanigohil0002@gmail.com</strong>
+<div align="center" style="color:#c77cf2;">
+  💻 I’m a <strong>software developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
+  🌟 Let's build <strong>creative projects</strong> together!<br>
+  📫 Reach me at: <strong>himanigohil0002@gmail.com</strong>
 </div>
 
 ---
@@ -50,10 +50,10 @@
   <img src="https://user-images.githubusercontent.com/109351602/228727713-bbfa3b0b-3cd9-4900-9498-32ef691ebf66.gif" width="100"/>
 </div>
 
-<div style="color:#c77cf2">
-  ✨ I love designing <strong style="color:#c77cf2;">cute and stylish UIs</strong> with vibrant aesthetics<br>
-  💖 Bringing <strong style="color:#c77cf2;">creativity and fun</strong> into coding is my secret sauce<br>
-  🎨 Always learning, exploring, and polishing my <strong style="color:#c77cf2;">web development skills</strong>
+<div style="color:#c77cf2;">
+  ✨ I love designing <strong>cute and stylish UIs</strong> with vibrant aesthetics<br>
+  💖 Bringing <strong>creativity and fun</strong> into coding is my secret sauce<br>
+  🎨 Always learning, exploring, and polishing my <strong>web development skills</strong>
 </div>
 
 ---
