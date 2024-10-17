@@ -1,69 +1,93 @@
-![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+# snk
 
-<h1 align="center">
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c77cf2&center=true&vCenter=true&width=435&lines=Hey+there%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
+
+Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+
+## Usage
+
+**github action**
+
+```yaml
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+```
+
+[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33)
+
+If you are only interested in generating a svg, consider using this faster action: `uses: Platane/snk/svg-only@v3`
+
+**dark mode**
+
+For **dark mode** support on github, use this [special syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to) in your readme.
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+```
+
+**interactive demo**
+
+<a href="https://platane.github.io/snk">
+  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
-</h1>
 
-<h3 align="center" style="color:#000;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
+[platane.github.io/snk](https://platane.github.io/snk)
 
-<div align="center" style="color:#000;">
-💻 I’m a <strong>software developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
-🌟 Let's build <strong>creative projects</strong> together!<br>
-📫 Reach me at: <strong>himanigohil0002@gmail.com</strong>
-</div>
+**local**
 
----
+```
+npm install
 
-### 🛠️ <span style="color:#000;">My Colorful Tech Stack:</span>
+npm run dev:demo
+```
 
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-c77cf2?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-c77cf2?style=for-the-badge&logoColor=black" alt="Express.js"/>
-<img src="https://img.shields.io/badge/React.js-c77cf2?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-<img src="https://img.shields.io/badge/MongoDB-c77cf2?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/JavaScript-c77cf2?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-c77cf2?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Git-c77cf2?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
-</div>
+## Implementation
 
----
-
-### 📊 <span style="color:black;">GitHub Stats:</span> 🌟
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani0002&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=c77cf2&icon_color=c77cf2" alt="Top Languages" height="200" width="300"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Himani0002&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=c77cf2&icon_color=c77cf2" alt="GitHub Stats" height="200" width="420"/>
-<img src="https://streak-stats.demolab.com/?user=Himani0002&theme=neon-dark&hide_border=true&stroke=c77cf2&ring=c77cf2&fire=c77cf2" alt="GitHub Streak Stats" height="200" width="420"/>
-</div>
-
----
-
-### 🌈 <span style="color:#000;">Fun Facts About Me:</span>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/109351602/228727713-bbfa3b0b-3cd9-4900-9498-32ef691ebf66.gif" width="100"/>
-</div>
-
-<div style="color:#000;">
-✨ I love designing <strong>cute and stylish UIs</strong> with vibrant aesthetics<br>
-💖 Bringing <strong>creativity and fun</strong> into coding is my secret sauce<br>
-🎨 Always learning, exploring, and polishing my <strong>web development skills</strong>
-</div>
-
----
-
-### 💌 <span style="color:#000;">Let's Connect!</span>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/himani-gohil" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-c77cf2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-</a>
-<a href="mailto:himanigohil0002@gmail.com">
-<img src="https://img.shields.io/badge/Email-c77cf2?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
-<a href="https://github.com/Himani0002" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-c77cf2?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-</a>
-</div>
+[solver algorithm](./packages/solver/README.md)
