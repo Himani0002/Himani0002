@@ -67,3 +67,8 @@
 <img src="https://img.shields.io/badge/GitHub-c77cf2?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br><br><br>
+
