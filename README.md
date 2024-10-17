@@ -6,9 +6,9 @@
 </a>
 </h1>
 
-<h3 align="center" style="color:#000;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
+<h3 align="center" style="color:#c77cf2;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
-<div align="center" style="color:#000;">
+<div align="center" style="color:#c77cf2;">
 💻 I’m a <strong>software developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
 🌟 Let's build <strong>creative projects</strong> together!<br>
 📫 Reach me at: <strong>himanigohil0002@gmail.com</strong>
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ <span style="color:#000;">My Colorful Tech Stack:</span>
+### 🛠️ <span style="color:#c77cf2;">My Colorful Tech Stack:</span>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-c77cf2?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 <span style="color:black;">GitHub Stats:</span> 🌟
+### 📊 <span style="color:#c77cf2;">GitHub Stats:</span> 🌟
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani0002&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=c77cf2&icon_color=c77cf2" alt="Top Languages" height="200" width="300"/>
@@ -40,13 +40,13 @@
 
 ---
 
-### 🌈 <span style="color:#000;">Fun Facts About Me:</span>
+### 🌈 <span style="color:#c77cf2;">Fun Facts About Me:</span>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109351602/228727713-bbfa3b0b-3cd9-4900-9498-32ef691ebf66.gif" width="100"/>
 </div>
 
-<div style="color:#000;">
+<div style="color:#c77cf2;">
 ✨ I love designing <strong>cute and stylish UIs</strong> with vibrant aesthetics<br>
 💖 Bringing <strong>creativity and fun</strong> into coding is my secret sauce<br>
 🎨 Always learning, exploring, and polishing my <strong>web development skills</strong>
@@ -71,8 +71,7 @@
 </picture>
 </div>
 
-
-### 💌 <span style="color:#000;">Let's Connect!</span>
+### 💌 <span style="color:#c77cf2;">Let's Connect!</span>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/himani-gohil" target="_blank">
@@ -85,5 +84,3 @@
 <img src="https://img.shields.io/badge/GitHub-c77cf2?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 </div>
-
-
