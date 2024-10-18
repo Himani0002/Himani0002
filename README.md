@@ -1,8 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/a522ccb2a6b4da5f65d62b4507929a9b225af0c5fcd0ac320aa756c7b1724176/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d366d327671526a4b444541414141692f6765656b2d6769726c2e676966" alt="Fun Animation GIF"/>
-</p>
+
 
 <h1 align="center">
 <a href="https://readme-typing-svg.demolab.com">
@@ -19,6 +17,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://camo.githubusercontent.com/a522ccb2a6b4da5f65d62b4507929a9b225af0c5fcd0ac320aa756c7b1724176/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d366d327671526a4b444541414141692f6765656b2d6769726c2e676966" alt="Fun Animation GIF"/>
+</p>
 
 ### 🛠️ <span style="color:#c77cf2;">My Colorful Tech Stack:</span>
 
