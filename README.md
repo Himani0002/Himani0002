@@ -87,3 +87,9 @@
 <img src="https://img.shields.io/badge/Discord-c77cf2?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
 </a>
 </div>
+
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/SJaynesh/">
+    <img src="https://github.com/osandadeshan/osandadeshan/blob/master/github-stars-program.png?raw=true" alt="GitHub Star 2024"/></a>
+</p>
