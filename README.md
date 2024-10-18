@@ -70,7 +70,6 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-<div align="center">
   <img
     alt="github contribution grid snake animation"
     src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/assets/github-contribution-grid-snake.svg"
