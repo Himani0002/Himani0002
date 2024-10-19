@@ -21,7 +21,6 @@
   <img src="https://camo.githubusercontent.com/a522ccb2a6b4da5f65d62b4507929a9b225af0c5fcd0ac320aa756c7b1724176/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d366d327671526a4b444541414141692f6765656b2d6769726c2e676966" alt="Fun Animation GIF"/>
 </p>
 
-### 🛠️ <span style="color:#c77cf2;">My Colorful Tech Stack:</span>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-c77cf2?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js"/>
