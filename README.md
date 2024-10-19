@@ -11,20 +11,12 @@
 <h3 align="center" style="color:#c77cf2;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
 <div align="center" style="color:#c77cf2;">
-💻 I’m a <strong>software developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
+💻 I’m a <strong>Full Stack Developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
 🌟 Let's build <strong>creative projects</strong> together!<br>
 📫 Reach me at: <strong>himanigohil0002@gmail.com</strong>
 </div>
 
-👩‍💻 <span style="color:#c77cf2;">About Me:</span>
-<div align="center"> <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Coding GIF" width="300"/> </div> <div style="color:#c77cf2;"> Hi there! I'm <strong>Himani Gohil</strong>, a passionate <strong>Full Stack Developer</strong> from India 🌏. I specialize in building modern, user-friendly web applications using the <strong>MERN stack</strong>. I am constantly learning new technologies and improving my skills to deliver high-quality and innovative projects. I take pride in creating aesthetically pleasing designs that are not only functional but also delightful to interact with.
-✨ I believe in the power of technology to transform ideas into reality and strive to bridge the gap between creativity and code. Whether it's building sleek user interfaces, designing backend systems, or diving deep into database management, I love taking on new challenges and bringing projects to life!
-
-When I'm not coding, I enjoy exploring cute design styles, contributing to open-source projects, and participating in coding challenges like the <strong>#100DaysOfCode</strong>. Let's connect and collaborate on exciting projects!
-
-</div>
 ---
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/a522ccb2a6b4da5f65d62b4507929a9b225af0c5fcd0ac320aa756c7b1724176/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d366d327671526a4b444541414141692f6765656b2d6769726c2e676966" alt="Fun Animation GIF"/>
 </p>
