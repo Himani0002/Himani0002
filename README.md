@@ -95,7 +95,3 @@
 </a>
 </div>
 
-<!-- Add this at the top where you want the image to appear -->
-<h1 align="center">
-  <img src="https://drive.google.com/file/d/1tPy14SVJdVf0b8ZiHhM1QoInB74rriUE/view?usp=drive_link" alt="Future is Tech" width="600"/>
-</h1>
