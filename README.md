@@ -94,3 +94,8 @@
 <img src="https://img.shields.io/badge/Discord-c77cf2?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
 </a>
 </div>
+
+<!-- Add this at the top where you want the image to appear -->
+<h1 align="center">
+  <img src="/mnt/data/DeWatermark.ai_1729763485727.png" alt="Future is Tech" width="600"/>
+</h1>
