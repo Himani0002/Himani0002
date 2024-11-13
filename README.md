@@ -118,6 +118,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-2021-in-review_banner.png?fit=1200%2C630" alt="GitHub Stars Banner" width="800"/>
+  <img src="https://th.bing.com/th/id/OIP.gYkqTwAQ2u4CptDKTO2SQAAAAA?rs=1&pid=ImgDetMain" alt="GitHub Stars Banner" width="800"/>
 </div>
 
