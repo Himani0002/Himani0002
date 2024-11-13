@@ -116,3 +116,8 @@
     <img src="https://img.shields.io/badge/©%202024%20Himani%20Gohil-All%20Rights%20Reserved-7CFCB0?style=for-the-badge&logoColor=black" alt="© 2024 Himani Gohil" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-2021-in-review_banner.png?fit=1200%2C630" alt="GitHub Stars Banner" width="800"/>
+</div>
+
