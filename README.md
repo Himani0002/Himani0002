@@ -116,6 +116,7 @@
     <img src="https://img.shields.io/badge/©%202024%20Himani%20Gohil-All%20Rights%20Reserved-7CFCB0?style=for-the-badge&logoColor=black" alt="© 2024 Himani Gohil" />
   </a>
 </div>
+<hr>
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/SJaynesh/">
