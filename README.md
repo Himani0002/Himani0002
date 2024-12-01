@@ -2,9 +2,16 @@
 
 <h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
 <a href="https://readme-typing-svg.demolab.com">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
 </h1>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 <h3 align="center" style="color:#90eebf;">👩‍💻 Full Stack Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
@@ -18,7 +25,8 @@
 
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/a522ccb2a6b4da5f65d62b4507929a9b225af0c5fcd0ac320aa756c7b1724176/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d366d327671526a4b444541414141692f6765656b2d6769726c2e676966" alt="Fun Animation GIF"/>
 </p>
@@ -33,7 +41,9 @@
 <img src="https://img.shields.io/badge/Git-90eebf?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
 </div>
 
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
 
@@ -45,7 +55,9 @@
 <img src="https://streak-stats.demolab.com/?user=Himani0002&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
 </div>
 
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### 🌈 <span style="color:#90eebf;">Fun Facts About Me:</span>
 
@@ -63,7 +75,9 @@
 
 </div>
 
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <div align="center">
 <picture>
@@ -84,11 +98,16 @@
 </picture>
 </div>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ### 📈 <span style="color:#90eebf;">Repository Activity Graph:</span>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himani0002&theme=dracula&bg_color=0d1117&color=90eebf&line=90eebf&point=90eebf&hide_border=true" alt="GitHub Repository Activity Graph"/>
 </div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 💌 <span style="color:#90eebf;">Let's Connect!</span>
 
@@ -109,10 +128,14 @@
 <br>
 <br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <div align="center">
   <a href="#top">
     <img src="https://img.shields.io/badge/©%202024%20Himani%20Gohil-All%20Rights%20Reserved-90eebf?style=for-the-badge&logoColor=black" alt="© 2024 Himani Gohil" />
   </a>
 </div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
